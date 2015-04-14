@@ -70,7 +70,7 @@ layout: false
 --
 
 
-* Dependencies between differnent parts kept to a minimum
+* Dependencies between different parts kept to a minimum
 
 ---
 
@@ -85,8 +85,8 @@ layout: false
 
 
 * Variable and function names are well chosen.
-    - pronouncable
-    - searcable in code (avoid 0, O, l 1)
+    - pronounceable
+    - searchable in code (avoid 0, O, l 1)
     - length of a variable name proportional to scope
 --
 
@@ -174,7 +174,7 @@ layout: false
 * Do one thing and do it well
     - but it can be difficult know what that "one thing" is
     - try to keep the statements of a function at the same level of abstraction
-    -e.g. do something or change somthing, but not both
+    -e.g. do something or change something, but not both
 --
 
 
@@ -204,7 +204,7 @@ layout: false
 --
 
 
-* The you need to refactor. (Improve variable named, extract functions, eliminate duplicatoin)
+* The you need to refactor. (Improve variable named, extract functions, eliminate duplication)
 --
 
 
