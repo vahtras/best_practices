@@ -1,7 +1,7 @@
 # Best practices
 ## Olav Vahtras
 
-Leiden 2015-04-14
+Computational Python
 
 ---
 
